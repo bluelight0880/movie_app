@@ -1,3 +1,3 @@
 # Movie app 2020
 
-Let's study React by making a new movie app!
+I'm going to use React to build a new movie app!
