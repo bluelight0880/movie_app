@@ -24,7 +24,7 @@ class Home extends React.Component {
   render() {
     const { isLoading, movies } = this.state;
     return (
-      <section className="sec__movie">
+      <section className="section__movie">
         {isLoading ? (
           <div className="loader">
             <span className="loader__text">Loading...</span>

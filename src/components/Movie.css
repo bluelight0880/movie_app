@@ -10,10 +10,13 @@
     box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25),
     0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
     transition: transform 300ms ease-in;
-    cursor: pointer;
 }
 .movies .movie:hover {
     transform: translateY(-30px);
+}
+.movie a {
+    text-decoration: none;
+    color: #adaeb9;
 }
 .movie img {
     position: relative;
